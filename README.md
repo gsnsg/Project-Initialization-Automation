@@ -8,4 +8,4 @@ Also make sure to change all directories to your directories so it should be '/U
 
 
 
-To run the script type in 'create <name of your folder>'
+To run the script type in create name_of_your_folder
